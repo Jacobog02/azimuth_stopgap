@@ -26,7 +26,7 @@ Remotes:
   immunogenomics/presto,
   satijalab/seurat-data,
   mojaveazure/seurat-disk,
-  stuart-lab/signac@seurat5
+  stuart-lab/signac
 Depends:
   R (>= 4.0.0)
 Imports:
